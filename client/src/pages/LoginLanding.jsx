@@ -55,7 +55,10 @@ const LoginLanding = () => {
 
             {/* Footer */}
             <div className="mt-12 text-center md:text-left text-sm text-slate-400">
-                <p>© {new Date().getFullYear()} GreatStack. All rights reserved.</p>
+                <p>
+                    © {new Date().getFullYear()} Employee Management System.
+                    Built by Vikas Kashyap.
+                </p>
             </div>
 
         </div>
